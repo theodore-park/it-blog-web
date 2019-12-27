@@ -1,5 +1,5 @@
 import * as React from 'react'
-import User from "./views/users/components/User";
+import User from "./views/user/users/components/User";
 
 class App extends React.Component {
   render() {
