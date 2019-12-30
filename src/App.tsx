@@ -1,10 +1,10 @@
 import * as React from 'react'
-import User from "./views/user/users/components/User";
+import rootRoute from './router'
 
 class App extends React.Component {
   render() {
     return (
-      <User />
+      <div></div>
     )
   }
 }
